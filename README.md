@@ -3,7 +3,7 @@
 ### BookMyKlient – Client Booking Platform
 A system designed to manage customer bookings, service scheduling, and client data efficiently.
 
-GitHub: https://github.com/Harshu200502/bookmyklient
+GitHub: https://github.com/Harshu200502/Portfolio/tree/main/projects/bookmyklient#bookmyklient
 
 ---
 
